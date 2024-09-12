@@ -1,2 +1,3 @@
 This is file A
-This is a chenge in file A
+This is a change in file A
+making a change in file A
